@@ -27,7 +27,7 @@ Mas decidida a aprender mais e mais sobre tecnologia. Sempre me interessei pela 
 
 ## :point_up: Próximos estudos da lista:
 <p>
-<img src="file:///C:/Users/danie/Pictures/Saved%20Pictures/java.svg" alt="Java" data-canonical-src="https://img.shields.io/badge/-Java-000?&amp;logo=java&amp;logoColor=#007396" style="max-width:100%;">
+<img src="file:///C:/Users/danie/Pictures/Saved%20Pictures/java.svg" alt="Java" style="max-width:100%;">
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/95905b50b09c5e69676230acd9d0e0b44ab2dc094d3a8347a2a54551447f877f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d3030303f266c6f676f3d73716c697465266c6f676f436f6c6f723d303033423537"><img src="https://camo.githubusercontent.com/95905b50b09c5e69676230acd9d0e0b44ab2dc094d3a8347a2a54551447f877f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d3030303f266c6f676f3d73716c697465266c6f676f436f6c6f723d303033423537" alt="SQLite" data-canonical-src="https://img.shields.io/badge/-SQLite-000?&amp;logo=sqlite&amp;logoColor=003B57" style="max-width:100%;"></a>
 </p>
 
