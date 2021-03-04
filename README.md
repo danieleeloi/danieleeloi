@@ -27,16 +27,13 @@ Mas decidida a aprender mais e mais sobre tecnologia. Sempre me interessei pela 
 
 ## :point_up: Próximos estudos da lista:
 <p>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/63ed0bbc595367888d648b2a1363a838e4ba743e/svg/java.svg" alt="Java" width="28">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/63ed0bbc595367888d648b2a1363a838e4ba743e/svg/java.svg" alt="Java" width="28">Java</img>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/95905b50b09c5e69676230acd9d0e0b44ab2dc094d3a8347a2a54551447f877f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d3030303f266c6f676f3d73716c697465266c6f676f436f6c6f723d303033423537"><img src="https://camo.githubusercontent.com/95905b50b09c5e69676230acd9d0e0b44ab2dc094d3a8347a2a54551447f877f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c6974652d3030303f266c6f676f3d73716c697465266c6f676f436f6c6f723d303033423537" alt="SQLite" data-canonical-src="https://img.shields.io/badge/-SQLite-000?&amp;logo=sqlite&amp;logoColor=003B57" style="max-width:100%;"></a>
 </p>
 
 ![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieleeloi&show_icons=true&theme=dark&hide_border=true&cache_seconds=2000&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieleeloi&layout=compact&theme=dark&hide_border=true&cache_seconds=2000)](https://github.com/danieleeloi/github-readme-stats)
-
-É um prazer te ver por aqui! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 
 
 
